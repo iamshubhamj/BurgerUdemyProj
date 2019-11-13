@@ -5,6 +5,11 @@ import BuildControls from '../../components/Burger/BuildControls/BuildControls';
 import Modal from '../../components/UI/Modal/Modal';
 import OrderSummary from '../../components/UI/OrderSummary/OrderSummary'
 
+/**
+ @description 
+ * builder page is used to build the burger as all complonet reder below in the js filr
+ * all component ll be triggered from the js file
+ */
 const INGREDIENT_PRICES = {
     salad: 0.5,
     cheese: 0.5,
